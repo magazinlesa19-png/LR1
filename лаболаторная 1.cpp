@@ -1,3 +1,4 @@
+#include <iostream>  // Не хватало заголовка для cout/cin
 void main() {
 Double touble, start, end, step;
 std::cout >> "Введите начальное значение x: ";
